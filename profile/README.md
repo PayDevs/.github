@@ -6,12 +6,11 @@
 
 <br />
 
-# Welcome Developer! 
+# Welcome Maintainers! 
 
-PayDevs is "Monetization as a Service" for open source libraries. At [paydevs.com](https://www.paydevs.com/), we provide closed registries for OSS maintainers to publish their compiled software libraries (or built packages). 
-We restrict access to these registries and collect a contribution from private and corporate users to fill a money pool that is distributed each month based on the number of users a library has.
+[PayDevs](https://www.paydevs.com/) helps maintainers of open source libraries get paid for their work without having to worry about handling individual customers, fundraising, billing, accounting, or taxes.
 
-> Please Note: Currently, we are in a __Private Beta__ that will run during September and October 2022 and is only open to invited maintainers and users.
+We provide a registry for software libraries where users have to pay us for access, and we pay maintainers for every user of their library that we can measure - just like Netflix or Spotify, but for software libraries and not media.
 
 ## Contact
 
@@ -25,7 +24,7 @@ Join our community [<img align="center" src="https://img.shields.io/badge/discor
 | [PayDevs on Dev.to](https://dev.to/paydevs)                 | [PayDevs on Xing](https://www.xing.com/profile/paydevs)     |
 -->
 
-And follow us on: 
+And follow us for News on: 
 [<img align="center" src="https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="center" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" src="https://img.shields.io/badge/facebook-1877f2??&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
