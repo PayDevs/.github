@@ -1,5 +1,4 @@
 [<img align="right" src="https://img.shields.io/reddit/user-karma/combined/paydevs?logo=Reddit&label=Karma&style=for-the-badge" />][reddit]
-[<img align="right" src="https://img.shields.io/twitter/follow/paydevs_com?logo=Twitter&label=Followers&style=for-the-badge" />][twitter]
 [<img align="right" src="https://img.shields.io/github/followers/paydevs?logo=GitHub&style=for-the-badge" />][github]
 [<img align="right" src="https://komarev.com/ghpvc/?username=paydevs&logo=GitHub&label=visits&color=336699&logoColor=white&style=for-the-badge" />][github]
 [<img align="right" src="https://img.shields.io/github/stars/paydevs?logo=GitHub&style=for-the-badge" />][github]
