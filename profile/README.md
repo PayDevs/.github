@@ -9,7 +9,7 @@
 
 [PayDevs](https://www.paydevs.com/) helps maintainers of open source libraries get paid for their work without having to worry about handling individual customers, fundraising, billing, accounting, or taxes.
 
-We provide a registry for software libraries where users have to pay us for access, and we pay maintainers for every user of their library that we can measure - just like Netflix or Spotify, but for software libraries and not media.
+We provide a registry for software libraries where users have to pay us for access, and we pay maintainers for every user of their library that we can measure - just like Spotify, but for software libraries / packages.
 
 ## Contact
 
